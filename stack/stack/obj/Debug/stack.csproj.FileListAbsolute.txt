@@ -1,0 +1,6 @@
+c:\users\lg\documents\visual studio 2015\Projects\stack\stack\bin\Debug\stack.exe.config
+c:\users\lg\documents\visual studio 2015\Projects\stack\stack\obj\Debug\stack.csprojResolveAssemblyReference.cache
+c:\users\lg\documents\visual studio 2015\Projects\stack\stack\bin\Debug\stack.exe
+c:\users\lg\documents\visual studio 2015\Projects\stack\stack\bin\Debug\stack.pdb
+c:\users\lg\documents\visual studio 2015\Projects\stack\stack\obj\Debug\stack.exe
+c:\users\lg\documents\visual studio 2015\Projects\stack\stack\obj\Debug\stack.pdb
